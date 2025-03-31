@@ -12,37 +12,30 @@ The models are trained and evaluated on three separate synthetic weather dataset
 ## 📁 Project Structure
 
 ### 📦 Weather-condition-prediction
+```bash
 ├── 📊 Logistic Regression.ipynb
-
 ├── 📊 KNN.ipynb
-
 ├── 📊 Decision Tree.ipynb
-
 ├── 📄 seattle-weather.csv
-
 ├── 📄 traffic_weather.csv
-
 ├── 📄 weather3.csv
-
 └── 📑 Weather PPT (1).pdf
+```
 
 ## 🔍 Datasets
 Each dataset represents synthetic weather data with continuous and categorical features. The target variable in all three datasets is the weather condition.
-
+```bash
 ├── seattle-weather.csv
-
 ├── traffic_weather.csv
-
 ├── weather3.csv
+```
 
 Data Cleaning Steps:
-
+```bash
 ├── Removed missing values
-
 ├── Removed duplicates
-
 ├── Detected and eliminated outliers
-
+```
 ## 🧠 Algorithms Used
 ### ✅ K-Nearest Neighbors (KNN)
 
